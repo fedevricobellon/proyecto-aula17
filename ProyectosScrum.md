@@ -5,13 +5,13 @@ Extraer conceptos del material de Scrum:
 
 Ceremonias: Son reuniones entre los integrantes del Scrum Team. Hay de diferentes tipos:
 
-Sprint Planning Meeting: Se produce al iniciar cada sprint con el objetivo de definir que se realizará en él.
+* Sprint Planning Meeting: Se produce al iniciar cada sprint con el objetivo de definir que se realizará en él.
 
-Daily Scrum Meeting: Es diaria y dura 20 minutos. Se trata lo que se hizo, lo que se va a hacer y que problemas se encontraron con el fin de solucionarlos.
+* Daily Scrum Meeting: Es diaria y dura 20 minutos. Se trata lo que se hizo, lo que se va a hacer y que problemas se encontraron con el fin de solucionarlos.
 
-Sprint Review Meeting: Se produce al finalizar el sprint para ver que se ha completado y que no. Debe estar presente el Product Owner.
+* Sprint Review Meeting: Se produce al finalizar el sprint para ver que se ha completado y que no. Debe estar presente el Product Owner.
 
-Sprint Retrospective Meeting: También al finalizar el sprint. Sirve para documentar que funcionó y que no, para centrarse en lo que salió bien y en lo que se debe mejorar.
+* Sprint Retrospective Meeting: También al finalizar el sprint. Sirve para documentar que funcionó y que no, para centrarse en lo que salió bien y en lo que se debe mejorar.
 
 Artefactos:
 
