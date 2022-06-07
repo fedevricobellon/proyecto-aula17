@@ -13,7 +13,10 @@ Ceremonias: Son reuniones entre los integrantes del Scrum Team. Hay de diferente
 
 * Sprint Retrospective Meeting: También al finalizar el sprint. Sirve para documentar que funcionó y que no, para centrarse en lo que salió bien y en lo que se debe mejorar.
 
-Artefactos:
+Artefactos: 
+* Product Backlog es el listado de requerimientos ordenados necesarios para llevar adelante el protecto. 
+* Sprint Backlog es la retrospectiva sobre los requerimientos ya entregados, se provee una nueva funcionalidad. 
+* Increment: Es la suma de los elementos del product backlog que fueron completados en el sprint y agrega valor a los sprints
 
 Roles: 
 * Product Ower: Es el responsable de maximizar la entrega de valor de valor del producto.Mantiene una escucha activa. Tiene la vision del producto y quien lo descompone en entregables priorizando las entregas e incorporando la vision del cliente.
