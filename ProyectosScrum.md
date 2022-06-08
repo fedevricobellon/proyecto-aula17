@@ -12,6 +12,7 @@ Ceremonias: Son reuniones entre los integrantes del Scrum Team. Hay de diferente
 * Sprint Review Meeting: Se produce al finalizar el sprint para ver que se ha completado y que no. Debe estar presente el Product Owner.
 
 * Sprint Retrospective Meeting: También al finalizar el sprint. Sirve para documentar que funcionó y que no, para centrarse en lo que salió bien y en lo que se debe mejorar.
+* Los sprint tienen un plazo máximo de 15 días para alcanzar la meta propuesta
 
 Artefactos: 
 * Product Backlog: es el listado (pila) de requerimientos ordenados necesarios para llevar adelante el proyecto. 
@@ -27,4 +28,5 @@ Roles:
 -Elimina los obstaculos que el equipo no se puede resolver por si mismo.
 -Protege al equipo de interrupciones externas que puedan afectar su compromiso o su productividad.
 -No es el lider.
+-El scrum master no es un único integrante del equipo, el rol puede variar dependiendo de la etapa del proyecto en la que se encuentre.
 
