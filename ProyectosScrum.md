@@ -21,6 +21,7 @@ Ceremonias: Son reuniones entre los integrantes del Scrum Team, que se realizan 
 * Sprint Retrospective Meeting: Reunión de retrospectiva del Sprint.
 * También al finalizar el sprint. Sirve para documentar que funcionó y que no, para centrarse en lo que salió bien y en lo que se debe mejorar.
 * Los sprint tienen un plazo máximo de 15 días para alcanzar la meta propuesta
+* No se centra en lo que salió mal.
 
 Artefactos: 
   Son aquellos elementos físicos que se producen como resultado de la aplicación de Scrum.
@@ -29,7 +30,8 @@ Artefactos:
 * Increment: Corresponde a la suma de los elementos del product backlog que fueron completados en el sprint y agrega valor a los sprints.
 
 Roles: 
-* Product Ower: Es el responsable de maximizar la entrega de valor de valor del producto.Mantiene una escucha activa. Tiene la vision del producto y quien lo descompone en entregables priorizando las entregas e incorporando la vision del cliente.
+* Product Ower: Es el responsable de maximizar la entrega de valor de valor del producto.Mantiene una escucha activa. Tiene la vision del producto y quien lo descompone en entregables priorizando las entregas e incorporando la vision del cliente. 
+Decide QUE construir y QUE no del producto.
 
 * Scrum Team o Equipo: Es un grupo o equipo de personas que son responsables de entender los requerimientos del negocio especificados por el Propietario del Producto. Los estudiantes, identifican y hacen el COMO. 
 
