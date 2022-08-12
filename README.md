@@ -27,7 +27,7 @@ Swichearse (moverse) a su rama personal.
 En la rama personal agregar su Curriculum Vitae (un archivo en formato .pdf) usando los comandos que hemos aprendido.
 Subir la rama personal al repositorio remoto.
 
-Valoración Final Primer Cuatrimestre
+VALORACIÓN FINAL DEL MÓDULO
 
 Los estudiantes deberán trabajar sobre la siguiente propuesta integradora para completar la valoración del Módulo Programador con fecha límite: 13/08/2022 a las 23:59 horas.
 
