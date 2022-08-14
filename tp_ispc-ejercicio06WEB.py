@@ -1,4 +1,4 @@
-# 6 Crear una tupla en Python con el nombre de "Historial2" la cual contenga los siguientes valores:
+# Ejercicio 6 Crear una tupla en Python con el nombre de "Historial2" la cual contenga los siguientes valores:
 #23500, 5960, 2300, 10200, 8900
 # Que representa montons de atencion en pesos por diferentes servicios/consultas de la mascota "Frida". 
 # Calcular el monto total gastado a lo largo del tiempo por atención de "Frida". 
