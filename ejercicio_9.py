@@ -12,4 +12,4 @@ def maximo(historial5):
             maximo = historial5[i];
     return maximo;
 
-print(maximo(historial5));
+print('El valor máximo gastado en Toto fue $',maximo(historial5));
